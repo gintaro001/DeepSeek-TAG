@@ -1,0 +1,13 @@
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.log
+*.zip
+backup/
+private/
+secrets/
+node_modules/
+.DS_Store
+Thumbs.db
